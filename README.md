@@ -4,7 +4,7 @@
 
 I have been learning Web Development from the likes of freeCodeCamp and w3schools since 2020, and I still continue to do so. As of now, I can build a static webpage, such as a product landing page or a personal portfolio like this one.
 
-Sometime in the near future I aim to be a full-stack developer, hopefully working with a reknowned tech company. For now, however, I am willing to take small front-end jobs.
+Sometime in the near future I aim to be a full-stack developer, hopefully working with a reknowned tech company. For now, however, I am willing to take small front-end jobs. You can contact me at alabiemmanuel029@gmail.com </p>
 <!--
 **Emman29/emman29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
