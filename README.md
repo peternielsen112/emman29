@@ -1,8 +1,4 @@
-<style>
-  body{
-  font-family: times new roman;
-  }
-</style>
+
 ### Hi there 👋
 <h3> My name is Emmanuel Alabi, and I'm a fourteen year old Junior Front-End Responsive Web Developer (yeah, long title), based somewhere on the continent of Africa.</h3>
 <p>
