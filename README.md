@@ -9,7 +9,7 @@ Sometime in the near future I aim to be a full-stack developer, hopefully workin
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=Emman29&bg_color=000000&color=00eeff&line=00e1ff&point=001eff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emmanuel&show_icons=true&theme=radical)
 
 <!--
 **Emman29/emman29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
