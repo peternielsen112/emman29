@@ -7,9 +7,7 @@ I have been learning Web Development from the likes of freeCodeCamp and w3school
 
 Sometime in the near future I aim to be a full-stack developer, hopefully working with a reknowned tech company. For now, however, I am willing to take small front-end jobs. You can contact me at alabiemmanuel029@gmail.com </p>
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=Emman29&bg_color=000000&color=00eeff&line=00e1ff&point=001eff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=emman29&show_icons=true&theme=radical)
+![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=emman29&show_icons=true&theme=dark)
 
 <!--
 **Emman29/emman29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
