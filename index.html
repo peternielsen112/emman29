@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Emmanuel A. Personal Profile</title>
+
+  <link rel="stylesheet" href="style.css">
+
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+  <!--font-family: 'Josefin Sans', sans-serif;-->
+
+
+
+
+</head>
+<body>
+  <main>
+    <div id="shade">
+      <h3>HI. MY NAME IS</h3>
+      <h1>Emmanuel A.</h1>
+      <h3>UPCOMING FRONT-END DEVELOPER</h3>
+
+    </div>
+
+  </main>
+
+  <div class="w3-center">
+    <button class="w3-button demo" onclick="currentDiv(1)">ABOUT</button>
+    <button class="w3-button demo" onclick="currentDiv(2)">PORTFOLIO</button>
+    <button class="w3-button demo" onclick="currentDiv(3)">CONTACT</button>
+  </div>
+<hr width="65%" height="0.5px">
+
+<div class="w3-content">
+  <div class="mySlides">
+    <p>Hello, World! My name is Emmanuel Alabi, and I'm a fourteen year old Junior Front-End Responsive Web Developer, based somewhere on the continent of Africa. <br><br> I have been learning Web Development from the likes of freeCodeCamp and w3schools since 2020, and I still continue to do so. As of now, I can build a static webpage, such as a product landing page or a personal portfolio like this one. <br><br>Sometime in the near future I aim to be a full-stack developer, hopefully working with a reknowned tech company. For now, however, I am willing to take small front-end jobs.</p>
+  </div>
+  <div class="mySlides">
+    <p>Below are a few of my projects. You can also see some of my portfolio in my <a href="#">Github</a> and <a href="#">Codepen</a> profiles.</p>
+    <div class="parent">
+      <div class="div1 unit"><p>Coming soon</p></div>
+      <div class="div2 unit"><p>Coming soon</p></div>
+      <div class="div3 unit"><p>Coming soon</p></div>
+      <div class="div4 unit"><p>Coming soon</p></div>
+      <div class="div5 unit"><p>Coming soon</p></div>
+      <div class="div6 unit"><p>Coming soon</p></div>
+    </div>
+
+  </div>
+  <div class="mySlides">
+    <p>Let's work together.I'm still working on this site and an in-built form is coming soon, but for now you can drop me an email at alabiemmanuel029@gmail.com</p>
+  </div>
+</div>
+
+
+
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function currentDiv(n) {
+  showDivs(slideIndex = n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("demo");
+  if (n > x.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" w3-red", "");
+  }
+  x[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " w3-red";
+}
+</script>
+
+<footer>
+  Website designed by Emmanuel A.
+</footer>
+
+
+</body>
+</html>
