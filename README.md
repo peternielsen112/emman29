@@ -3,9 +3,9 @@
 <h3> My name is Emmanuel Alabi, and I'm a fifteen year old Front-End Responsive Web Developer (yeah, long title), based somewhere on the continent of Africa.</h3>
 <p>
 
-I have been learning Web Development from the likes of freeCodeCamp and w3schools since 2020, and I still continue to do so. As of now, I can build a static webpage, such as a product landing page or a personal portfolio like this one.
+I have been learning Web Development from the likes of freeCodeCamp and W3Schools since 2020, and I still continue to do so. As of now, I can build a static webpage, such as a product landing page or a personal portfolio like this one.
 
-Sometime in the near future I aim to be a full-stack developer, hopefully working with a reknowned tech company. For now, however, I am willing to take small front-end jobs. You can contact me at alabiemmanuel029@gmail.com </p>
+Sometime in the near future I aim to be a full-stack developer, hopefully working with a renowned tech company. For now, however, I am willing to take small front-end jobs. You can contact me at alabiemmanuel029@gmail.com </p>
 
 ![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=emman29&show_icons=true&theme=dark)
 
